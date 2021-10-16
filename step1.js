@@ -1,5 +1,3 @@
-
-
 const argv = process.argv;
 const fs = require('fs');
 
